@@ -1,5 +1,5 @@
 
-# Seu Nome Completo
+# João Gabriel
 
 ## Resumo
 Desenvolvedor apaixonado por tecnologia, com experiência em Python e JavaScript. Busco contribuir para projetos open source e aprender continuamente.
