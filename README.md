@@ -9,13 +9,13 @@ Desenvolvedor apaixonado por tecnologia, com experiência em Python e JavaScript
 - Desenvolvimento de aplicações web usando Django e React.
 - Manutenção e otimização de bancos de dados.
 
-### Estagiário de Desenvolvimento - Empresa ABC
+### Estagiário de Desenvolvimento 
 - Colaboração em projetos de automação de processos.
 - Aprendizado contínuo em linguagens como Python e JavaScript.
 
 ## Educação
 ### Bacharelado em Ciência da Computação - Universidade ABC
-- Conclusão prevista para 2023.
+- Conclusão prevista para 2027.
 - Disciplinas relevantes: Algoritmos, Estruturas de Dados, Programação Orientada a Objetos.
 
 ## Habilidades Técnicas
@@ -26,8 +26,7 @@ Desenvolvedor apaixonado por tecnologia, com experiência em Python e JavaScript
 
 ## Projetos
 ### Meu Projeto Legal
-Descrição breve do projeto e principais tecnologias utilizadas.
+nenhum
 
 ## Contato
-- Email: seu@email.com
-- LinkedIn: Seu Perfil
+- Email: bielsaci85@gmail.com
